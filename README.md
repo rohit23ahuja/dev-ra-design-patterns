@@ -14,3 +14,12 @@ Repository which I am practising various design patterns using java.
  - https://app.pluralsight.com/library/courses/design-patterns-java-creational/table-of-contents
  - https://dzone.com/articles/immutability-with-builder-design-pattern
  - Builder patter in hibernate entity, need to try this (https://stackoverflow.com/questions/8111461/how-can-you-use-builder-pattern-for-entities-with-jpa) 
+ 
+## DTO Pattern
+ - https://www.baeldung.com/java-dto-pattern
+
+## High Cohesion and Low Coupling
+ - https://stackoverflow.com/questions/14000762/what-does-low-in-coupling-and-high-in-cohesion-mean
+
+## Interface Segregation Principle
+ - https://en.wikipedia.org/wiki/Interface_segregation_principle#:~:text=In%20the%20field%20of%20software,are%20of%20interest%20to%20them.
